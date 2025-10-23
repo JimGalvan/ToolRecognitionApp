@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9353db7b-8726-4168-8f17-4b0a30124025" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/tool_dataset/remove_postfix.py" afterDir="false" />
+    <list default="true" id="9353db7b-8726-4168-8f17-4b0a30124025" name="Changes" comment="renamed dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset.tar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,8 @@
   "keyToString": {
     "Python.generate_masks (1).executor": "Run",
     "Python.generate_masks.executor": "Run",
+    "Python.remove_postfix (1).executor": "Run",
+    "Python.remove_postfix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/jimmy/PycharmProjects/ToolRecognitionApp"
@@ -61,7 +63,7 @@
       <recent name="C:\Users\jimmy\PycharmProjects\ToolRecognitionApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.generate_masks (1)">
+  <component name="RunManager" selected="Python.remove_postfix (1)">
     <configuration name="generate_masks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToolRecognitionApp" />
       <option name="ENV_FILES" value="" />
@@ -106,8 +108,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="remove_postfix (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_postfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_postfix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool_dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy\PycharmProjects\ToolRecognitionApp\remove_postfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_postfix (1)" />
+        <item itemvalue="Python.remove_postfix" />
         <item itemvalue="Python.generate_masks (1)" />
         <item itemvalue="Python.generate_masks" />
       </list>
@@ -153,12 +201,37 @@
       <option name="project" value="LOCAL" />
       <updated>1761187312438</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199360333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199360333</updated>
+    </task>
+    <task id="LOCAL-00005" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199364367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199364367</updated>
+    </task>
+    <task id="LOCAL-00006" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199372718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199372718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dataset" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="renamed dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed dataset" />
   </component>
 </project>
