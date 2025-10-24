@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9353db7b-8726-4168-8f17-4b0a30124025" name="Changes" comment="add gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0015_jpeg.rf.4626c7e4c0664bba046171b2554d5a86.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0015_jpeg.rf.4626c7e4c0664bba046171b2554d5a86.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0016_jpeg.rf.dd77a2b4e4ee281854ed3aa4420a6028.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0016_jpeg.rf.dd77a2b4e4ee281854ed3aa4420a6028.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0019_jpeg.rf.9ec1841e523eb6b4909d24bbe5e889f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0019_jpeg.rf.9ec1841e523eb6b4909d24bbe5e889f8.png" afterDir="false" />
