@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9353db7b-8726-4168-8f17-4b0a30124025" name="Changes" comment="add gitignore">
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0015_jpeg.rf.4626c7e4c0664bba046171b2554d5a86.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0015_jpeg.rf.4626c7e4c0664bba046171b2554d5a86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0016_jpeg.rf.dd77a2b4e4ee281854ed3aa4420a6028.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0016_jpeg.rf.dd77a2b4e4ee281854ed3aa4420a6028.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0019_jpeg.rf.9ec1841e523eb6b4909d24bbe5e889f8.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0019_jpeg.rf.9ec1841e523eb6b4909d24bbe5e889f8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0022_jpeg.rf.c4688df40a08ed0c598b810a77df995d.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0022_jpeg.rf.c4688df40a08ed0c598b810a77df995d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0023_jpeg.rf.0067bf4d96fba4eaef0f74d3fce1f310.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0023_jpeg.rf.0067bf4d96fba4eaef0f74d3fce1f310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0024_jpeg.rf.c15d08d4095e64a50343e31436011240.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0024_jpeg.rf.c15d08d4095e64a50343e31436011240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0025_jpeg.rf.f6e3c4d6bbeb9629369b609cfdb7a401.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0025_jpeg.rf.f6e3c4d6bbeb9629369b609cfdb7a401.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0027_jpeg.rf.4827fc4fddfe8bb9b787b0cc37bcdf4c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0027_jpeg.rf.4827fc4fddfe8bb9b787b0cc37bcdf4c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0028_jpeg.rf.ab5555d671fdb9952e85f326b9e4f300.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0028_jpeg.rf.ab5555d671fdb9952e85f326b9e4f300.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0041_jpeg.rf.82229efec2128695d5331cb2d580b389.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0041_jpeg.rf.82229efec2128695d5331cb2d580b389.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0043_jpeg.rf.2a77fc3fa8a92c89730a183175786293.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0043_jpeg.rf.2a77fc3fa8a92c89730a183175786293.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0044_jpeg.rf.5750143796ed019200f36411e700a585.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0044_jpeg.rf.5750143796ed019200f36411e700a585.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0045_jpeg.rf.268d5f76250da9fa05acf13b3ccb9ecf.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0045_jpeg.rf.268d5f76250da9fa05acf13b3ccb9ecf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0046_jpeg.rf.cb5659305e9a21b83f674ce54e693f51.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0046_jpeg.rf.cb5659305e9a21b83f674ce54e693f51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0047_jpeg.rf.5e623008a2d60424d589237221f9e7e5.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0047_jpeg.rf.5e623008a2d60424d589237221f9e7e5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0048_jpeg.rf.fb234166b6605dd5bb28f21f24f1935e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0048_jpeg.rf.fb234166b6605dd5bb28f21f24f1935e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0049_jpeg.rf.f548fe2018ecf3c7def9f3e81a206025.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0049_jpeg.rf.f548fe2018ecf3c7def9f3e81a206025.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0050_jpeg.rf.0abcccc3936ca6a06cd375b1af25049c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0050_jpeg.rf.0abcccc3936ca6a06cd375b1af25049c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0051_jpeg.rf.fd863e2435b9602b42b9d6dd6ddfc529.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0051_jpeg.rf.fd863e2435b9602b42b9d6dd6ddfc529.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0052_jpeg.rf.8c98bd7f8c29928265c2df67af28ee3e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0052_jpeg.rf.8c98bd7f8c29928265c2df67af28ee3e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0055_jpeg.rf.0f0e5f11410abd629c259059dcae015e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0055_jpeg.rf.0f0e5f11410abd629c259059dcae015e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0056_jpeg.rf.27155393a33a07eeccb6c012f319370e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0056_jpeg.rf.27155393a33a07eeccb6c012f319370e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0057_jpeg.rf.432e6ad0bbbccbf2fae7c083e34a13c0.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0057_jpeg.rf.432e6ad0bbbccbf2fae7c083e34a13c0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0061_jpeg.rf.d7762c02ba2280dd591f5b27975d8005.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0061_jpeg.rf.d7762c02ba2280dd591f5b27975d8005.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0065_jpeg.rf.0605201506c42d45cfb6c9b8e731fc3c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0065_jpeg.rf.0605201506c42d45cfb6c9b8e731fc3c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0067_jpeg.rf.2dc0f3cf785645fb9a76f228ec63c8d4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0067_jpeg.rf.2dc0f3cf785645fb9a76f228ec63c8d4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0068_jpeg.rf.3c407a994d1edaf05b285b3daa79f393.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0068_jpeg.rf.3c407a994d1edaf05b285b3daa79f393.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0069_jpeg.rf.904563466bdcd6034b8b749cfc51b3fc.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0069_jpeg.rf.904563466bdcd6034b8b749cfc51b3fc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0073_jpeg.rf.24fefdf2a8afe700079aab7b94b6214f.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0073_jpeg.rf.24fefdf2a8afe700079aab7b94b6214f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0074_jpeg.rf.d01eb4476795a41091d7d99d25dc6fd9.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0074_jpeg.rf.d01eb4476795a41091d7d99d25dc6fd9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0076_jpeg.rf.fe3383c1743f91f2506e2e369599602b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0076_jpeg.rf.fe3383c1743f91f2506e2e369599602b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0077_jpeg.rf.2de362c1204cf1b69ebe79ea4a937b69.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0077_jpeg.rf.2de362c1204cf1b69ebe79ea4a937b69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0079_jpeg.rf.ba0ff7b78982ab65b13b70d023badec1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0079_jpeg.rf.ba0ff7b78982ab65b13b70d023badec1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0080_jpeg.rf.ab7f36e1f9efab803944c763ea020e84.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0080_jpeg.rf.ab7f36e1f9efab803944c763ea020e84.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0081_jpeg.rf.1282a54a845a10888fdb04890e7cd00f.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0081_jpeg.rf.1282a54a845a10888fdb04890e7cd00f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0082_jpeg.rf.4499cee5c67132277057a8e16a60a921.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0082_jpeg.rf.4499cee5c67132277057a8e16a60a921.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0083_jpeg.rf.413536d8a35ec763d9abc2997c04f4bf.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0083_jpeg.rf.413536d8a35ec763d9abc2997c04f4bf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0084_jpeg.rf.6428592e95106d1ef19ffd2338dbb986.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0084_jpeg.rf.6428592e95106d1ef19ffd2338dbb986.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0087_jpeg.rf.ac59bedb39ab0532a71ff0ba2ea8fca0.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0087_jpeg.rf.ac59bedb39ab0532a71ff0ba2ea8fca0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0088_jpeg.rf.47c4bf8689def1a35babaf5ce73af6b5.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0088_jpeg.rf.47c4bf8689def1a35babaf5ce73af6b5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0089_jpeg.rf.f37898fbd8cdb192957f3a10acc88491.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0089_jpeg.rf.f37898fbd8cdb192957f3a10acc88491.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0091_jpeg.rf.5acd771f165fa8208e9364edea28283a.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0091_jpeg.rf.5acd771f165fa8208e9364edea28283a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0093_jpeg.rf.0514bbd99faabb262f70c63de05576ae.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0093_jpeg.rf.0514bbd99faabb262f70c63de05576ae.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0096_jpeg.rf.4a7c4f91fc178650ac3a9a03f2e6f731.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0096_jpeg.rf.4a7c4f91fc178650ac3a9a03f2e6f731.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0099_jpeg.rf.dd13d175ae7d0c66a889b4ed7426271e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0099_jpeg.rf.dd13d175ae7d0c66a889b4ed7426271e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0103_jpeg.rf.5f3e5ca5590cd1ae263de213044931d6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0103_jpeg.rf.5f3e5ca5590cd1ae263de213044931d6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0104_jpeg.rf.e276bbb1e44bb59deaeefaa03f781fa1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0104_jpeg.rf.e276bbb1e44bb59deaeefaa03f781fa1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0105_jpeg.rf.481452eb299549f778f51042c93a7f9a.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0105_jpeg.rf.481452eb299549f778f51042c93a7f9a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0106_jpeg.rf.93804a996d571fc01de690048a386b91.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0106_jpeg.rf.93804a996d571fc01de690048a386b91.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0107_jpeg.rf.89464e274d3010f410f20e54df852260.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0107_jpeg.rf.89464e274d3010f410f20e54df852260.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0108_jpeg.rf.b8791810872b9c901bcaf508b6bdc832.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0108_jpeg.rf.b8791810872b9c901bcaf508b6bdc832.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0109_jpeg.rf.0d60f653c6599419ab830f65ca915d74.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0109_jpeg.rf.0d60f653c6599419ab830f65ca915d74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0110_jpeg.rf.6e6ffa44fca017b1e8f4dc65942c9bae.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0110_jpeg.rf.6e6ffa44fca017b1e8f4dc65942c9bae.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0111_jpeg.rf.071c32007d088c59f7354eee098ee42c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0111_jpeg.rf.071c32007d088c59f7354eee098ee42c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0112_jpeg.rf.5850abd8c424e9e4f42f453ee38b5e11.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0112_jpeg.rf.5850abd8c424e9e4f42f453ee38b5e11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0113_jpeg.rf.34f5b11a955d167083004c2113d67f4c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0113_jpeg.rf.34f5b11a955d167083004c2113d67f4c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0114_jpeg.rf.1d7367f99274f54256cecc2d9de140ab.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0114_jpeg.rf.1d7367f99274f54256cecc2d9de140ab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0116_jpeg.rf.1ee0fbc0c0481a295452597d0aac4568.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0116_jpeg.rf.1ee0fbc0c0481a295452597d0aac4568.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0117_jpeg.rf.0a605169d69146e8a37a107e8cf38151.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0117_jpeg.rf.0a605169d69146e8a37a107e8cf38151.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0118_jpeg.rf.c7892bd701bb5380bd9c0957f5de4f08.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0118_jpeg.rf.c7892bd701bb5380bd9c0957f5de4f08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0120_jpeg.rf.9a153f5fd941310b6308a67ce20ca8de.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0120_jpeg.rf.9a153f5fd941310b6308a67ce20ca8de.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0121_jpeg.rf.ad8550abbfb9f29cd7a741d186606b4b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0121_jpeg.rf.ad8550abbfb9f29cd7a741d186606b4b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0122_jpeg.rf.7cd997e8d6f70792f8f18eec21ebc712.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0122_jpeg.rf.7cd997e8d6f70792f8f18eec21ebc712.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0123_jpeg.rf.e453f86713ebe86c5e906eee2ad4ec95.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0123_jpeg.rf.e453f86713ebe86c5e906eee2ad4ec95.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0124_jpeg.rf.3b4fb9ef25e782207628319751c376da.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0124_jpeg.rf.3b4fb9ef25e782207628319751c376da.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0126_jpeg.rf.8cb3cd98551ae3c696037ab1af83b926.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0126_jpeg.rf.8cb3cd98551ae3c696037ab1af83b926.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0127_jpeg.rf.f8b6c0abfc9969381da7ca8a06399234.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0127_jpeg.rf.f8b6c0abfc9969381da7ca8a06399234.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0128_jpeg.rf.bc5de7e3ba44ddcafcfd57db973a2490.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0128_jpeg.rf.bc5de7e3ba44ddcafcfd57db973a2490.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0132_jpeg.rf.0e03b6bf7119531949c02d65f3e77bae.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0132_jpeg.rf.0e03b6bf7119531949c02d65f3e77bae.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0133_jpeg.rf.ae220a4e7be5b6cc306a7c18a0d8cc47.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0133_jpeg.rf.ae220a4e7be5b6cc306a7c18a0d8cc47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0134_jpeg.rf.21ee59ca3ba016187d9c333c8a975b4a.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0134_jpeg.rf.21ee59ca3ba016187d9c333c8a975b4a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0135_jpeg.rf.bda77fb5b1297728a67a57d4e33caf86.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0135_jpeg.rf.bda77fb5b1297728a67a57d4e33caf86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0136_jpeg.rf.80e6eeafe527679d03b1d115641f3dfc.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_0136_jpeg.rf.80e6eeafe527679d03b1d115641f3dfc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3171_jpeg.rf.611296ee1961e3526e49859d93f513d1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3171_jpeg.rf.611296ee1961e3526e49859d93f513d1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3173_jpeg.rf.f1c6a53dd97c8d06ec5b9505187eff15.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3173_jpeg.rf.f1c6a53dd97c8d06ec5b9505187eff15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3174_jpeg.rf.c6b75310ff23149e142dbd31657a04b6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3174_jpeg.rf.c6b75310ff23149e142dbd31657a04b6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3175_jpeg.rf.0bf12d43e3039afaa90a215128b2cb6f.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3175_jpeg.rf.0bf12d43e3039afaa90a215128b2cb6f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3176_jpeg.rf.d7a6422b66eca8ae49b7cec8e3ebe770.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3176_jpeg.rf.d7a6422b66eca8ae49b7cec8e3ebe770.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3178_jpeg.rf.a93319d1b577fb1c7ca0bef3581fab71.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3178_jpeg.rf.a93319d1b577fb1c7ca0bef3581fab71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3180_jpeg.rf.f38b30eb8cf0f68530473746f76e9a40.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3180_jpeg.rf.f38b30eb8cf0f68530473746f76e9a40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3182_jpeg.rf.46fb23f324334e2013ec7dcfd983212b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3182_jpeg.rf.46fb23f324334e2013ec7dcfd983212b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3183_jpeg.rf.1db3eebdb6433445a6740d30624fcc25.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3183_jpeg.rf.1db3eebdb6433445a6740d30624fcc25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3184_jpeg.rf.3641a045bf967cae9e39e02c9e352432.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3184_jpeg.rf.3641a045bf967cae9e39e02c9e352432.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3190_jpeg.rf.5a9c2edbe91148bdd235bbbb37b39c48.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3190_jpeg.rf.5a9c2edbe91148bdd235bbbb37b39c48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3191_jpeg.rf.afcf3c69658450f2338b26415b8b4af3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3191_jpeg.rf.afcf3c69658450f2338b26415b8b4af3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3194_jpeg.rf.c127e9c11275b296ba8fe7367bdb9253.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3194_jpeg.rf.c127e9c11275b296ba8fe7367bdb9253.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3196_jpeg.rf.84814777d3c9320332b4e10f9c309de6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3196_jpeg.rf.84814777d3c9320332b4e10f9c309de6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3197_jpeg.rf.4731b16bb9e94eb0721852081d73feaa.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3197_jpeg.rf.4731b16bb9e94eb0721852081d73feaa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3198_jpeg.rf.a52a35ce9da6a27b98a04eb942a1dae4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3198_jpeg.rf.a52a35ce9da6a27b98a04eb942a1dae4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3199_jpeg.rf.bec4fafc53d3ddd45650b0f0a060e493.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3199_jpeg.rf.bec4fafc53d3ddd45650b0f0a060e493.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3200_jpeg.rf.fa6b90f0a4ef9715810925322a0d397e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3200_jpeg.rf.fa6b90f0a4ef9715810925322a0d397e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3201_jpeg.rf.9a6e5a6408d5fa1c5b6720c8bd6126d6.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3201_jpeg.rf.9a6e5a6408d5fa1c5b6720c8bd6126d6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3202_jpeg.rf.95c42ac3db9fc3942f765d430d9f99df.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3202_jpeg.rf.95c42ac3db9fc3942f765d430d9f99df.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3203_jpeg.rf.29d014335201c88d26e1639464a3ed68.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3203_jpeg.rf.29d014335201c88d26e1639464a3ed68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3204_jpeg.rf.20035ff449ddad1450b2297a40d87848.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3204_jpeg.rf.20035ff449ddad1450b2297a40d87848.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3205_jpeg.rf.03c46f9cfeae51e2869ef493ccef9972.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3205_jpeg.rf.03c46f9cfeae51e2869ef493ccef9972.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3207_jpeg.rf.2bd0303cc979419cfb0782d531c280d1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3207_jpeg.rf.2bd0303cc979419cfb0782d531c280d1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3209_jpeg.rf.f5a58b9bcceee82609bde47aa77a91e8.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3209_jpeg.rf.f5a58b9bcceee82609bde47aa77a91e8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3210_jpeg.rf.2270ea27a5af8d27e748dd2472112a9b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3210_jpeg.rf.2270ea27a5af8d27e748dd2472112a9b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3214_jpeg.rf.3df0425f89e90a9aa191dc024d4e002b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3214_jpeg.rf.3df0425f89e90a9aa191dc024d4e002b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3216_jpeg.rf.7f099714cc04864768c842d9e7c302b3.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3216_jpeg.rf.7f099714cc04864768c842d9e7c302b3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3217_jpeg.rf.93646f282555d3a9bc8ef796318c3a6f.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3217_jpeg.rf.93646f282555d3a9bc8ef796318c3a6f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3218_jpeg.rf.316cb74b38e59efb3adb0eca8125c33e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3218_jpeg.rf.316cb74b38e59efb3adb0eca8125c33e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3220_jpeg.rf.c3c41533cc999d00725982e363ef4d19.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3220_jpeg.rf.c3c41533cc999d00725982e363ef4d19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3221_jpeg.rf.bc060b27861fa0adfab11ef895fae70e.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3221_jpeg.rf.bc060b27861fa0adfab11ef895fae70e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3223_jpeg.rf.b185cec1020657fe94f64030e3844d0c.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3223_jpeg.rf.b185cec1020657fe94f64030e3844d0c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3226_jpeg.rf.68a00e45a8690d63d198e2bac52d0e83.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3226_jpeg.rf.68a00e45a8690d63d198e2bac52d0e83.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3227_jpeg.rf.45e9a5e4b099047d957da2a493a6a08b.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3227_jpeg.rf.45e9a5e4b099047d957da2a493a6a08b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3228_jpeg.rf.68740037b960dff2e192ad25242b10c2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3228_jpeg.rf.68740037b960dff2e192ad25242b10c2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3229_jpeg.rf.3e7d0cdb639aa849cd40f8d469490a98.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3229_jpeg.rf.3e7d0cdb639aa849cd40f8d469490a98.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3230_jpeg.rf.793128e6bf90fb940dbc0189fc2b4414.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3230_jpeg.rf.793128e6bf90fb940dbc0189fc2b4414.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3231_jpeg.rf.3e88d72255c5603bd74f4bf30d1295cb.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3231_jpeg.rf.3e88d72255c5603bd74f4bf30d1295cb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3232_jpeg.rf.fd576ffe800abc6f02a92686b3e85186.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3232_jpeg.rf.fd576ffe800abc6f02a92686b3e85186.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3233_jpeg.rf.67f4acd4ea1d25b42d8a5fb5511ec8ff.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3233_jpeg.rf.67f4acd4ea1d25b42d8a5fb5511ec8ff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3236_jpeg.rf.e21703d46e5ae762ef97359d2af9973a.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3236_jpeg.rf.e21703d46e5ae762ef97359d2af9973a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3237_jpeg.rf.9e3d46ede43c50cfea478a49815fd381.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3237_jpeg.rf.9e3d46ede43c50cfea478a49815fd381.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3239_jpeg.rf.bb0a171e9fa55106957d191eebe98b45.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3239_jpeg.rf.bb0a171e9fa55106957d191eebe98b45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3240_jpeg.rf.3e4f82ea9606a534423caacc4a0fe6ee.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3240_jpeg.rf.3e4f82ea9606a534423caacc4a0fe6ee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3245_jpeg.rf.b8c24c8641c035593fb1e6d5d91cfe65.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3245_jpeg.rf.b8c24c8641c035593fb1e6d5d91cfe65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3246_jpeg.rf.b233b33addc3c5b5624194752d4f5d94.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3246_jpeg.rf.b233b33addc3c5b5624194752d4f5d94.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3247_jpeg.rf.db98faf348165c373286b201fd8842bb.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3247_jpeg.rf.db98faf348165c373286b201fd8842bb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3249_jpeg.rf.2ba424f39bd9d8496e0c4c32f16f4c74.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3249_jpeg.rf.2ba424f39bd9d8496e0c4c32f16f4c74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3251_jpeg.rf.b1665fe92ecf4fb4f2849fef4fc7f559.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3251_jpeg.rf.b1665fe92ecf4fb4f2849fef4fc7f559.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3253_jpeg.rf.a4cc032c572eedc8e51045d221acdd35.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3253_jpeg.rf.a4cc032c572eedc8e51045d221acdd35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3254_jpeg.rf.06d0f13fe4977ba4732c2ce45e0ad3bc.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3254_jpeg.rf.06d0f13fe4977ba4732c2ce45e0ad3bc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3255_jpeg.rf.a9683918e284f4b1d8670bae5905447f.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3255_jpeg.rf.a9683918e284f4b1d8670bae5905447f.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3256_jpeg.rf.23865bf0b1a2fa35f14a259797ba5acf.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3256_jpeg.rf.23865bf0b1a2fa35f14a259797ba5acf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3258_jpeg.rf.318fc3d8f680d579bbac50fedd877ded.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3258_jpeg.rf.318fc3d8f680d579bbac50fedd877ded.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3260_jpeg.rf.37f5fe6a348aaa615cf7a17a9e88fb94.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3260_jpeg.rf.37f5fe6a348aaa615cf7a17a9e88fb94.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3262_jpeg.rf.3799ead5a5ae04c76401750d3658a9ff.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3262_jpeg.rf.3799ead5a5ae04c76401750d3658a9ff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3263_jpeg.rf.27056afa44654bedee69ab230d84b472.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3263_jpeg.rf.27056afa44654bedee69ab230d84b472.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3264_jpeg.rf.89b4b16b3f9154fa51bc1e9105188151.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3264_jpeg.rf.89b4b16b3f9154fa51bc1e9105188151.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3265_jpeg.rf.794726f4723ecbc78fcf8aee5daf00d5.png" beforeDir="false" afterPath="$PROJECT_DIR$/tool_dataset/train/masks/IMG_3265_jpeg.rf.794726f4723ecbc78fcf8aee5daf00d5.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JimGalvan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JimGalvan/ToolRecognitionApp.git&quot;,
+    &quot;accountId&quot;: &quot;b09eb506-1155-4258-9043-c33390f0309f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="34RhbEDOaRYEkmNFOoxEZ9g3C8B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Debug",
+    "Python.generate_masks (1).executor": "Run",
+    "Python.generate_masks.executor": "Run",
+    "Python.gpu_check.executor": "Run",
+    "Python.remove_postfix (1).executor": "Run",
+    "Python.remove_postfix.executor": "Run",
+    "Python.train_model.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/git/ToolRecognitionApp"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\ToolRecognitionApp" />
+      <recent name="C:\Users\jimmy\PycharmProjects\ToolRecognitionApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jimmy\PycharmProjects\ToolRecognitionApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gpu_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpu_check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_postfix (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_postfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_postfix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool_dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jimmy\PycharmProjects\ToolRecognitionApp\remove_postfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToolRecognitionApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.gpu_check" />
+        <item itemvalue="Python.remove_postfix (1)" />
+        <item itemvalue="Python.remove_postfix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9353db7b-8726-4168-8f17-4b0a30124025" name="Changes" comment="" />
+      <created>1761182360475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761182360475</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add dataset">
+      <option name="closed" value="true" />
+      <created>1761182713838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761182713838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1761183186340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761183186340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1761187312438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761187312438</updated>
+    </task>
+    <task id="LOCAL-00004" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199360333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199360333</updated>
+    </task>
+    <task id="LOCAL-00005" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199364367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199364367</updated>
+    </task>
+    <task id="LOCAL-00006" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761199372718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761199372718</updated>
+    </task>
+    <task id="LOCAL-00007" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761278294406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761278294406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="renamed dataset">
+      <option name="closed" value="true" />
+      <created>1761278566250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761278566250</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add final code">
+      <option name="closed" value="true" />
+      <created>1761279163737</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761279163737</updated>
+    </task>
+    <task id="LOCAL-00010" summary="app">
+      <option name="closed" value="true" />
+      <created>1761279667385</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761279667385</updated>
+    </task>
+    <task id="LOCAL-00011" summary="app">
+      <option name="closed" value="true" />
+      <created>1761280097254</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761280097254</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1761280245642</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761280245642</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1761282541084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282541084</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add gitignore">
+      <option name="closed" value="true" />
+      <created>1761282706069</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282706069</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dataset" />
+    <MESSAGE value="init" />
+    <MESSAGE value="renamed dataset" />
+    <MESSAGE value="add final code" />
+    <MESSAGE value="app" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
