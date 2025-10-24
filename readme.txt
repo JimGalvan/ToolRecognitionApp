@@ -1,3 +1,3 @@
-how to handle gpu:
+how to handle gpu::
 pip uninstall torch torchvision torchaudio -y
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
