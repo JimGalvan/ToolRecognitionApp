@@ -1,9 +1,13 @@
 import sys
 
-from PySide6.QtCore import Qt
+from PySide6.QtCore import Qt, QTimer
 from PySide6.QtGui import QPixmap
 from PySide6.QtWidgets import QGraphicsScene, QGraphicsView, QWidget, QLabel, QListWidget, QVBoxLayout, QScrollArea, \
-    QListWidgetItem, QHBoxLayout, QFrame, QPushButton, QFileDialog, QApplication, QSplitter
+    QListWidgetItem, QHBoxLayout, QFrame, QPushButton, QFileDialog, QApplication, QSplitter, QProgressBar, \
+    QGraphicsPixmapItem
+
+import themes
+from tool_detector import ToolDetector
 
 
 class ImageViewer(QGraphicsView):
@@ -19,6 +23,11 @@ class ImageViewer(QGraphicsView):
         self.scene.clear()
         self.scene.addPixmap(pixmap)
         self.fitInView(self.scene.itemsBoundingRect(), Qt.KeepAspectRatio)
+
+    def get_image(self) -> QPixmap:
+        for item in self.scene.items():
+            if isinstance(item, QGraphicsPixmapItem):
+                return item.pixmap()  # this is your QPixmap
 
 
 class Sidebar(QWidget):
@@ -116,8 +125,11 @@ class MainWindow(QWidget):
 
         # Connect buttons
         self.btn_load.clicked.connect(self.load_images)
+        self.btn_clear.clicked.connect(self.clear_photos)
+        self.btn_run.clicked.connect(self.run_ai)
 
-        self.images = []  # Store file paths
+        self.images = {}
+        self.tool_detector = None
 
     def load_images(self):
         files, _ = QFileDialog.getOpenFileNames(self, "Select Images", "", "Images (*.png *.jpg *.jpeg *.bmp)")
@@ -126,80 +138,51 @@ class MainWindow(QWidget):
 
         for path in files:
             pix = QPixmap(path)
-            self.images.append((path, pix))
+
+            self.images[id(pix.__hash__())] = path
             self.thumb_bar.add_thumbnail(pix, lambda p=path, px=pix: self.show_image(p, px))
 
         # Auto-display first image
         if len(files) > 0:
             self.show_image(files[0], QPixmap(files[0]))
 
+    def clear_photos(self):
+        self.images.clear()
+        self.viewer.set_image(QPixmap())
+        # while len(self.thumb_bar.children()) > 0:
+        #     self.thumb_bar.children().pop()
+
     def show_image(self, path, pixmap):
         self.viewer.set_image(pixmap)
         size_text = f"{pixmap.width()}×{pixmap.height()}"
         self.sidebar.update_info(path.split("/")[-1], "—", size_text, [])
 
+    def get_image_in_pil(self):
+        image_pixmap = self.viewer.get_image()
+        path = self.images.get(image_pixmap.__hash__())
+        # item1 = self.images[0]
+        print("test")
+
+    def run_ai(self):
+        image = self.get_image_in_pil()
+        # self.tool_detector.predict()
+        print("test")
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow()
-    dark_style = """
-    QWidget {
-        background-color: #0f1115;
-        color: #e8eefc;
-        font-family: Segoe UI, sans-serif;
-        font-size: 14px;
-    }
 
-    QLabel {
-        color: #e8eefc;
-    }
+    screens = app.screens()
+    third_screen = screens[1]
+    geometry = third_screen.geometry()
 
-    QPushButton {
-        background-color: #1a1d25;
-        color: #e8eefc;
-        border: 1px solid #2b3140;
-        border-radius: 6px;
-        padding: 6px 10px;
-    }
-    QPushButton:hover {
-        background-color: #232733;
-    }
-    QPushButton:pressed {
-        background-color: #2c3040;
-    }
-
-    QListWidget, QScrollArea, QGraphicsView {
-        background-color: #141823;
-        border: 1px solid #2b3140;
-    }
-
-    QListWidget::item {
-        padding: 6px;
-    }
-    QListWidget::item:selected {
-        background-color: #2b3550;
-        border-left: 3px solid #5b8cff;
-    }
-
-    QScrollBar:vertical, QScrollBar:horizontal {
-        background: #141823;
-        width: 12px;
-        margin: 0px;
-    }
-    QScrollBar::handle {
-        background: #2b3140;
-        border-radius: 6px;
-    }
-    QScrollBar::handle:hover {
-        background: #3a4152;
-    }
-
-    QSplitter::handle {
-        background-color: #2b3140;
-    }
-    """
-
-    app.setStyleSheet(dark_style)
+    window.move(geometry.left() + 100, geometry.top() + 100)
+    window.showFullScreen()
+    app.setStyleSheet(themes.DARK_STYLE)
 
     window.show()
+
+    window.tool_detector = ToolDetector(model_path='model_local.pkl')
+
     sys.exit(app.exec())
